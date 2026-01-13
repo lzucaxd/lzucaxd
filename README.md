@@ -46,7 +46,7 @@ I also build **AI systems** that combine retrieval + structure (graphs) to impro
 - **Oncology Data Scientist — Novartis**  
   Built large-scale ML pipelines on >5M single-cell microscopy images across 20+ cancer cell lines; developed channel-adaptive masked autoencoders and scalable training pipelines.
 
-- **Research Assistant — Northeastern (Vitek Lab)**  
+- **Master's Thesis — Northeastern (Vitek Lab)**  
   Multimodal biomedical ML: imaging + proteomics, autoencoders, Bayesian models, and statistically rigorous evaluation.
 
 - **Lead Graduate TA — Applied Programming & Data Processing for AI (CS5130)**  
