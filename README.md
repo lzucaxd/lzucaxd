@@ -47,7 +47,7 @@ I also build **AI systems** that combine retrieval + structure (graphs) to impro
   Built large-scale ML pipelines on >5M single-cell microscopy images across 20+ cancer cell lines; developed channel-adaptive masked autoencoders and scalable training pipelines.
 
 - **Master's Thesis — Northeastern (Vitek Lab)**  
-  Multimodal biomedical ML: imaging + proteomics, autoencoders, Bayesian models, and statistically rigorous evaluation.
+  Proteomics ML: proteomics, autoencoders, Bayesian models, and statistically rigorous evaluation.
 
 - **Lead Graduate TA — Applied Programming & Data Processing for AI (CS5130)**  
   Built autograders, led lectures and live coding demos, coordinated grading for ~80 students.
