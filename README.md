@@ -12,19 +12,19 @@ I also build **AI systems** that combine retrieval + structure (graphs) to impro
 
 ## What I do
 
-### 🔬 Biotech / Medical ML
+###  Biotech / Medical ML
 - Channel-adaptive models for fluorescence microscopy (variable markers / missing channels)
 - Whole-slide imaging (WSI) tumor detection pipelines (tiling → inference → heatmaps)
 - Multimodal learning (imaging + molecular/proteomics signals)
 - Evaluation, interpretability, and robustness under distribution shift
 
-### ⚙️ ML Engineering
+###  ML Engineering
 - Reproducible distributed training/evaluation pipelines and data loaders  
 - Experiment tracking, scalable training, and model benchmarking  
 - Clean code + tooling (tests, scripts, docs) for research-to-production workflows  
 - MLOps with MLflow, GPU training, and cluster-based experimentation
 
-### 🤖 AI Systems (LLMs)
+###  AI Systems (LLMs)
 - GraphRAG: Neo4j + LlamaIndex for grounded QA over scientific literature  
 - Agentic pipelines with automated judging, refinement loops, and efficiency modes  
 - Cost/latency–aware system design for LLM workflows
