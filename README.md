@@ -82,4 +82,3 @@ I also build **AI systems** that combine retrieval + structure (graphs) to impro
 
 ---
 
-If you're hiring for **ML Engineer / AI Engineer / AI Scientist (biotech or healthcare)** roles, I’m happy to share a tailored walkthrough of any project above.
